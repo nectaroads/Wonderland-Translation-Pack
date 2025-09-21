@@ -1,2 +1,0 @@
-example = example
-小提琴 = example
